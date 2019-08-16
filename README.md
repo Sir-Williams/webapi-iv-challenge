@@ -10,7 +10,7 @@ You are allowed, and **encouraged**, to collaborate with other peers. Please fol
 
 Pick any API, could be one of your past projects, and deploy it to `heroku`. Once deployed, send the URL to the TL for your group.
 
-https://github.com/Sir-Williams/webapi-iv-challenge.git
+https://sirs-test-app.herokuapp.com/posts/7
 
 ## Stretch Goal
 
